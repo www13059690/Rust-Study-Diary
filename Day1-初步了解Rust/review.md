@@ -51,9 +51,9 @@ prinln后面的!，教程说是一个叫做宏操作符的东西，不知道和C
 笔者没有直接复制，而是手敲了一遍这个代码，照着代码敲也错了不少地方，Rust语言和笔者用过的几种语言都有不少的差异，也有不少的既视感，这段代码的意思大概就是解析了那段string信息。
 在手敲了一遍之后，隐约有些意识到了Rust那陡峭的难度曲线到底有多么曲折了……
 # 进度总结
-初步了解了Rust的背景和目前进度，成功安装了Rust环境
+初步了解了Rust的背景和目前进度，成功安装了Rust环境  
 ![Rust 环境](./md-pic/rust-env.jpg)
-安装了推荐的rust-analyzer等插件
-新建了一个Hello-World项目
-学习了Rust项目的Build Run Check等功能，学习了.toml .lock等文件的用法。
-修改了Hello-World项目，初步熟悉Rust语法。
+安装了推荐的rust-analyzer等插件  
+新建了一个Hello-World项目  
+学习了Rust项目的Build Run Check等功能，学习了.toml .lock等文件的用法。  
+修改了Hello-World项目，初步熟悉Rust语法。  
